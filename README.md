@@ -10,10 +10,9 @@ Create a Node.js script to take local file path of the provided sample Excel fil
 3. Handle error scenarios like file missing in the path, Parser exceptions (non-numeric characters in number columns), etc., with an appropriate error response with proper logging in a log file
 
 ## Task 2
-Create a simple MERN stack application to connect to NoSQL DB from first task and display the contents of the Excel file in a data grid (one data grid per Excel worksheet)
+Create a reasonably styled MERN stack application to connect to NoSQL DB from first task and display the contents of the Excel file in a data grid (one data grid per Excel worksheet)
 
 ## Bonus Points
 
- - Set up a free-tier cluster on MongoDB Atlas and use it for both the tasks
- - Deploy the MERN application to Heroku
+ - Deploy the MERN application to Heroku/MongoDB Atlas
  - Secure the MERN application on Heroku using an authentication mechanism (preferably token-based)
